@@ -16,25 +16,24 @@ With the dataset, it was decided to use the pre-trained VGG16 model as a feature
 
 A new labeled dataset containing 100 images of drones was created by Brian Liao, and it is found that the model only gets 80% accuracy on this dataset. Failure cases involve images with significant occlusion, top-down or bottom-up views of the drone, and views that include the top of the drone when the drone color scheme is red (our training set drones are blue).
 
-[image](real_data/brians_gift/drone_dataset2\drone_rect0.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect11.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect12.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect13.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect14.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect15.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect16.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect17.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect18.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect19.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect2.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect3.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect39.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect40.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect49.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect52.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect54.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect58.jpg)
-[image](real_data/brians_gift/drone_dataset2\drone_rect9.jpg)
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect0.jpg"> <img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect11.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect12.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect13.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect14.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect15.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect16.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect17.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect18.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect19.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect2.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect3.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect39.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect40.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect49.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect52.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect54.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect58.jpg">
+<img width="100" src="real_data/brians_gift/drone_dataset2/drone_rect9.jpg">
 
 ## Authors
 
