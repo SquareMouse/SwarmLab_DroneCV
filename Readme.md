@@ -24,4 +24,4 @@ A new labeled dataset containing 100 images of drones was created by Brian Liao,
 
 ## Authors
 
-* **Chandler Chen** - *Initial work* - [SquareMouse](https://github.com/SquareMouse/)
+* **Chandler Chen**  [SquareMouse](https://github.com/SquareMouse/)
