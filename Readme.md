@@ -3,7 +3,7 @@
 Running a binary classifier on images of CX-OF drones to assist in a real-time object tracker. Runs Keras with VGG features on a tensorflow backend. 
 
 ## Setup
-This jupyter notebook was run on the swarm lab windows machine with a Nvidia GTX1080, and the models (which are too large for github) are found inside ~/Documents/DroneCV in that machine and are also with Brian Liao. Setup on the machine requires entering the command `activate tensorflow` or `source activate tensorflow` in anaconda prompt to start the virtual environment, then going into ~/Documents/DroneCV and entering `jupyter notebook`. 
+This jupyter notebook was run on the swarm lab windows machine with a Nvidia GTX1080, and the models (which are too large for github) are found inside ~/Documents/DroneCV in that machine and are also with Brian Liao. Setup on the machine requires entering the command `activate tensorflow` or `source activate tensorflow` in anaconda prompt to start the virtual environment, then going into ~/Documents/DroneCV and entering the command `jupyter notebook`. 
 
 
 ## Methods
